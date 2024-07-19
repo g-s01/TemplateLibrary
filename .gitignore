@@ -1,0 +1,15 @@
+.cmake
+cmake-build-debug
+cmake_install.cmake
+cmake-build-default-coverage-1
+cmake-build-default-coverage
+coverage
+coverage-tests.json
+Testing
+.ninja_deps
+.ninja_log
+.idea
+build.ninja
+CMakeCache.txt
+tests
+CMakeFiles
