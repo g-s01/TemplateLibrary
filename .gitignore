@@ -13,3 +13,5 @@ build.ninja
 CMakeCache.txt
 tests
 CMakeFiles
+build
+*.DS_Store
