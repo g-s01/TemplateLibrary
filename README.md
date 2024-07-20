@@ -1,3 +1,6 @@
+[![codecov](https://codecov.io/github/g-s01/TemplateLibrary/graph/badge.svg?token=VK7I4V3N3N)](https://codecov.io/github/g-s01/TemplateLibrary)
+![Code Coverage](https://github.com/g-s01/TemplateLibrary/workflows/Code%20Coverage/badge.svg)
+
 # CP Templates
 
 1. [Tries](https://github.com/g-s01/TemplateLibrary/tree/main/src/Trie)

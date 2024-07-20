@@ -28,7 +28,7 @@ make coverage
 lcov --remove coverage.info "/opt/homebrew/include/gtest/*" "/v1/*" "test/*" --output-file coverage.cleaned.info
 
 # Generate HTML report
-genhtml --ignore-errors inconsistent coverage.cleaned.info --output-directory out
+genhtml coverage.cleaned.info --output-directory out
 
 # Navigate back to the project root
 cd ..
