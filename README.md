@@ -12,10 +12,7 @@ Copy and Paste the required code/functions in the `src` folder
 2. Install [GoogleTest](https://google.github.io/googletest/)
 3. Build the CMake using
    ```
-   cmake .
-   cmake --build .
+   chmod +x coverage.sh
+   ./coverage.sh
    ```
    at the root
-4. Run `./tests` at the root
-   <img width="769" alt="image" src="https://github.com/user-attachments/assets/e9d20aed-689d-41b5-bae8-c0ebef0c17a3">
-5. (Optional) For code coverage see [this](https://www.jetbrains.com/help/clion/code-coverage-clion.html)
